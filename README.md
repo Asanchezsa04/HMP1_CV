@@ -20,3 +20,8 @@ The colors chosen are green (something nice for the eyes) with a slight gradient
 
 
 The figma link is as follows: https://www.figma.com/file/0VVB26Zy3VIGuRTpdBatss/FigmaCVProject?type=design&node-id=0%3A1&mode=design&t=iBFDxPvWd7nmmn0n-1
+
+I've used multiple githup repositories for every languaje. Only this one has a Readme file. Everyone has the same files but the index.html file is in the correspondant languaje, the links are those:
+
+Catalan project: https://github.com/Asanchezsa04/HMP1_CVCAT
+Spanish project: https://github.com/Asanchezsa04/HMP1_CVCES
