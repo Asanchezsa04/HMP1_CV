@@ -24,4 +24,4 @@ The figma link is as follows: https://www.figma.com/file/0VVB26Zy3VIGuRTpdBatss/
 I've used multiple githup repositories for every languaje. Only this one has a Readme file. Everyone has the same files but the index.html file is in the correspondant languaje, the links are those:
 
 Catalan project: https://github.com/Asanchezsa04/HMP1_CVCAT
-Spanish project: https://github.com/Asanchezsa04/HMP1_CVCES
+Spanish project: https://github.com/Asanchezsa04/HMP1_CVES
